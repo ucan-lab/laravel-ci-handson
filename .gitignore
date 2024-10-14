@@ -6,6 +6,7 @@
 /public/storage
 /storage/*.key
 /storage/phpstan
+/storage/rector
 /vendor
 .env
 .env.backup

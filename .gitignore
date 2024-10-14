@@ -1,4 +1,5 @@
 /.phpunit.cache
+/.pnpm-store
 /node_modules
 /public/build
 /public/hot
@@ -15,7 +16,9 @@ Homestead.json
 Homestead.yaml
 auth.json
 npm-debug.log
+package-lock.json
 yarn-error.log
+yarn.lock
 /.fleet
 /.idea
 /.vscode
